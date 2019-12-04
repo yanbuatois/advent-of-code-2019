@@ -1,0 +1,29 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "My participation to the Advent of Code 2019.",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanbuatois/advent-of-code-2019.git"
+  },
+  "keywords": [
+    "Advent",
+    "of",
+    "code",
+    "2019",
+    "javascript"
+  ],
+  "author": "Yan BUATOIS <yanbuatois@outlook.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanbuatois/advent-of-code-2019/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/yanbuatois/advent-of-code-2019#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "underscore": "^1.9.1"
+  }
+}
