@@ -24,6 +24,6 @@
   "homepage": "https://github.com/yanbuatois/advent-of-code-2019#readme",
   "dependencies": {
     "colors": "^1.4.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
